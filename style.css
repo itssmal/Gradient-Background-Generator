@@ -23,7 +23,7 @@ h3 {
     text-align: center;
     text-transform: none;
     letter-spacing: 0.01em;
-
+    cursor: pointer;
 }
 p {
     font: 900 1em 'Baloo Thambi 2', cursive;
